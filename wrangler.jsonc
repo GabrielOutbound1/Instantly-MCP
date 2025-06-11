@@ -1,0 +1,5 @@
+{
+  "name": "instantly-mcp",
+  "compatibility_date": "2025-06-11",
+  "main": "dist/index.js"
+}
